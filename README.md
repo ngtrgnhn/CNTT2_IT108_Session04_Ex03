@@ -9,6 +9,7 @@
     <img src="./images/rikkei-logo.webp" alt="Rikkei Edu Logo" height="60" style="border-radius: 8px; padding: 4px; background: #ffffff;" />
   </a>
 </p>
+
 ## **Phần 1: Mã nguồn PowerShell**
 
 PowerShell
